@@ -1,7 +1,7 @@
 import { Moto } from "./moto";
 import { Auto } from "./auto";
 import { Camion } from "./camion";
-import { Vehiculo } from "./vehiculo";
+
 
 export class RegistroAutomotor{
     private nombre: string;
